@@ -61,18 +61,18 @@ Handled gracefully in the program.
 ![OpenAI](screenshot/openai.png)
 
 ### Groq Output
-![Groq](screenshot/groq1.png)
+![Groq](screenshot/groq_1.png)
 
-![Groq](screenshot/groq2.png)
+![Groq](screenshot/groq_2.png)
 
-![Groq](screenshot/groq3.png)
+![Groq](screenshot/groq_3.png)
 
 ### Ollama Output
-![Ollama](screenshot/ollama 1.png)
+![Ollama](screenshot/ollama_1.png)
 
-![Ollama](screenshot/ollama 2.png)
+![Ollama](screenshot/ollama_2.png)
 
-![Ollama](screenshot/ollama 3.png)
+![Ollama](screenshot/ollama_3.png)
 
 ### Hugging Face Output
 
