@@ -51,3 +51,43 @@ python cohere_api.py
 ## Notes
 - Ollama runs locally (no API key required)
 - Ensure Ollama is running before executing ollama_api.py
+
+## Screenshots
+
+### OpenAI Output
+OpenAI API returned quota exceeded error (429).
+Handled gracefully in the program.
+
+![OpenAI](screenshot/openai.png)
+
+### Groq Output
+![Groq](screenshot/groq1.png)
+
+![Groq](screenshot/groq2.png)
+
+![Groq](screenshot/groq3.png)
+
+### Ollama Output
+![Ollama](screenshot/ollama 1.png)
+
+![Ollama](screenshot/ollama 2.png)
+
+![Ollama](screenshot/ollama 3.png)
+
+### Hugging Face Output
+
+Note: Hugging Face API access is restricted for this account.
+
+Error handled:
+"This authentication method does not have sufficient permissions..."
+
+This demonstrates proper error handling for API permission issues.
+![HuggingFace](screenshot/huggingface.png)
+
+### Gemini Output
+Handled quota exceeded error gracefully
+
+![Gemini](screenshot/gemini.png)
+
+### Cohere Output
+![Cohere](screenshot/Cohere.png)

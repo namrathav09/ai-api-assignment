@@ -13,7 +13,7 @@ def main():
         user_input = input("Enter your prompt: ")
 
         response = client.models.generate_content(
-            model="gemini-2.0-flash",
+           model="gemini-1.5-flash",
             contents=user_input
         )
 
